@@ -26,6 +26,7 @@ conference:
   start_date: 2027-06-07
   end_date: 2027-06-11
   email: types2027@uniud.it
+  submission_url: https://types-hotcrp.paris.inria.fr/types27-conf/
 
 # --- Data --------------------------------------------------------------------
 # The data lives in `data/` rather than `_data/` so that the TYPES tooling

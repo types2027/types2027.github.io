@@ -88,18 +88,15 @@ Abstracts must be prepared with the conference style file and submitted in PDF.
 
 ### Where to submit
 
-Submission is handled through a **HotCRP** instance set up for the conference.
+Submission is handled through HotCRP.
 
-<div class="callout callout--tba">
-  <p><span class="tba">to be announced</span></p>
-  <p>The address of the submission site will be published here well before the
-  deadline of {{ abstract_deadline.human }}.</p>
-</div>
+<p><a class="btn btn--amber" href="{{ site.conference.submission_url }}">Go to the submission site</a></p>
 
-Each HotCRP installation keeps its own accounts: an account on the site of
-another conference does not carry over, so authors will need to register on the
-TYPES 2027 instance before submitting. Abstracts can be revised on the
-submission site up to the deadline.
+The site accepts account registrations now; submission itself opens in good time
+before the deadline of {{ abstract_deadline.human }}. Each HotCRP installation
+keeps its own accounts, so an account on the site of another conference does not
+carry over and authors need to register on the TYPES 2027 instance. Abstracts
+can be revised there up to the deadline.
 
 ### After acceptance
 
