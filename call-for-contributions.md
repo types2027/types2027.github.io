@@ -78,13 +78,20 @@ meetings as a working conference.
 
 ### Format
 
-Abstracts must be prepared with the conference style file and submitted in PDF.
+Abstracts must be prepared with the **LIPIcs** LaTeX class (currently
+`lipics-v2021`) and submitted in PDF. The style bundle and the instructions for
+authors are published by Dagstuhl on the
+[LIPIcs series page](https://drops.dagstuhl.de/entities/series/LIPIcs#author),
+which always carries the current release; the sources and an issue tracker are
+on [GitHub](https://github.com/dagstuhl-publishing/styles).
 
-<div class="callout callout--tba">
-  <p><span class="tba">to be announced</span></p>
-  <p>The LaTeX style file and a template will be linked here once the
-  submission system opens.</p>
-</div>
+Compile with pdflatex, keep the standard bibliography style
+(`\bibstyle{plainurl}`), use the sectioning macros the class provides, and do
+not override its defaults for fonts, spacing or colours.
+
+The same class is used for the
+[post-proceedings](#post-proceedings), so an abstract prepared this way is
+already a step towards the full paper.
 
 ### Where to submit
 
