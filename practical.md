@@ -12,10 +12,18 @@ TYPES 2027 is hosted by the **University of Udine** (Università degli Studi di
 Udine), and in particular by its Department of Mathematics, Computer Science
 and Physics.
 
-<div class="callout callout--tba">
-  <p><span class="tba">to be confirmed</span></p>
-  <p>The exact lecture rooms and the campus hosting the conference will be
-  announced here, together with a map and directions from the city centre.</p>
+### Where the conference takes place
+
+Sessions are held at **Palazzo di Toppo Wassermann**, the seat of the
+university's [Scuola Superiore](https://superiore.uniud.it/it), in the centre of
+Udine.
+
+<p class="note">Via Gemona 92, 33100 Udine</p>
+
+<div class="callout">
+  <p>A map and directions from the station and from the airport will be added
+  here, together with the rooms used for the sessions.
+  <span class="tba">to be announced</span></p>
 </div>
 
 ### The city
@@ -125,12 +133,6 @@ Cividale, Aquileia or the coast.
   APT Gorizia reissues the PDF each season and the old URL stops working, so
   wait for the 2027 one rather than linking a seasonal file that will 404.
 {% endcomment %}
-
-<div class="callout">
-  <p>Detailed directions from the station and the airport to the conference
-  venue, with maps, will be added once the venue is confirmed.
-  <span class="tba">to be confirmed</span></p>
-</div>
 
 ## Accommodation
 
