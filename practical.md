@@ -16,9 +16,7 @@ and Physics.
 
 Talks are held in **room T9** of **Palazzo di Toppo Wassermann**, the seat of
 the university's [Scuola Superiore](https://superiore.uniud.it/it). The palace
-stands in the centre of Udine, inside the line of the old city walls.
-
-<p class="note">Via Gemona 92, 33100 Udine</p>
+is in via Gemona 92, close to the centre of Udine.
 
 <div class="callout">
   <p>A map and directions from the station and from the airport will be added
