@@ -14,16 +14,15 @@ and Physics.
 
 ### Where the conference takes place
 
-Sessions are held at **Palazzo di Toppo Wassermann**, the seat of the
-university's [Scuola Superiore](https://superiore.uniud.it/it), in the centre of
-Udine.
+Talks are held in **room T9** of **Palazzo di Toppo Wassermann**, the seat of
+the university's [Scuola Superiore](https://superiore.uniud.it/it). The palace
+stands in the centre of Udine, inside the line of the old city walls.
 
 <p class="note">Via Gemona 92, 33100 Udine</p>
 
 <div class="callout">
   <p>A map and directions from the station and from the airport will be added
-  here, together with the rooms used for the sessions.
-  <span class="tba">to be announced</span></p>
+  here. <span class="tba">to be announced</span></p>
 </div>
 
 ### The city
